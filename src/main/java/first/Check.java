@@ -1,4 +1,4 @@
-package firest;
+package first;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
