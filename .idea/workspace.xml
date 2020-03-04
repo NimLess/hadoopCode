@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f05f2ba-9d71-44e3-bcc0-8b0381035259" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/first/Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hadoop/first/Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/firest/Check.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,13 +38,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1YQmOzfyfW3RZcZNmlAom8nRabB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -50,14 +61,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunManager">
-    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firest.Check" />
+    <configuration name="Check" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="hadoop.first.Check" />
       <module name="hadoopCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="firest.*" />
+          <option name="PATTERN" value="hadoop.first.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582883163672</updated>
       <workItem from="1582883165999" duration="2898000" />
+      <workItem from="1583290822401" duration="6875000" />
     </task>
     <servers />
   </component>
@@ -89,25 +102,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="621" y="208" width="800" height="677" key="#Project_Structure" timestamp="1582883288184">
+    <state x="621" y="208" width="800" height="677" key="#Project_Structure" timestamp="1583294325301">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="621" y="208" width="800" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1582883288184" />
-    <state width="895" height="278" key="GridCell.Tab.0.bottom" timestamp="1582887987974">
+    <state x="621" y="208" width="800" height="677" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1583294325301" />
+    <state x="551" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583298588298">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="895" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582887987974" />
-    <state width="895" height="278" key="GridCell.Tab.0.center" timestamp="1582887987973">
+    <state x="551" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583298588298" />
+    <state width="881" height="344" key="GridCell.Tab.0.bottom" timestamp="1583299222845">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="895" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582887987973" />
-    <state width="895" height="278" key="GridCell.Tab.0.left" timestamp="1582887987972">
+    <state width="881" height="344" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583299222845" />
+    <state width="881" height="344" key="GridCell.Tab.0.center" timestamp="1583299222843">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="895" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582887987972" />
-    <state width="895" height="278" key="GridCell.Tab.0.right" timestamp="1582887987974">
+    <state width="881" height="344" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583299222843" />
+    <state width="881" height="344" key="GridCell.Tab.0.left" timestamp="1583299222842">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="895" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582887987974" />
+    <state width="881" height="344" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583299222842" />
+    <state width="881" height="344" key="GridCell.Tab.0.right" timestamp="1583299222844">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583299222844" />
+    <state width="881" height="344" key="GridCell.Tab.1.bottom" timestamp="1583299217881">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1583299217881" />
+    <state width="881" height="344" key="GridCell.Tab.1.center" timestamp="1583299217880">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1583299217880" />
+    <state width="881" height="344" key="GridCell.Tab.1.left" timestamp="1583299217880">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1583299217880" />
+    <state width="881" height="344" key="GridCell.Tab.1.right" timestamp="1583299217881">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1583299217881" />
+    <state x="615" y="193" width="1024" height="845" key="SettingsEditor" timestamp="1583292842011">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="615" y="193" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583292842011" />
   </component>
 </project>
